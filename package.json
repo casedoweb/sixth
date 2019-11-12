@@ -1,12 +1,8 @@
 {
-        "name": "backyourstack",
-        "version": "1.1.0",
-        "jest": {
-                "coverageDirectory": "./coverage/",
-                "collectCoverage": true
-        },
-        "funding": {
-                "type": "opencollective",
-                "url": "https://opencollective.com/<YOUR-COLLECTIVE-SLUG>"
-        }
+      "name": "backyourstack",
+"version": "1.1.0",
+    "jest": {
+  "coverageDirectory": "./coverage/",
+"collectCoverage": true
+      }
 }
