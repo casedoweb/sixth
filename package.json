@@ -1,8 +1,8 @@
 {
-  "name": "backyourstack",
+        "name": "backyourstack",
   "version": "1.1.0",
-  "jest": {
+       "jest": {
     "coverageDirectory": "./coverage/",
-    "collectCoverage": true
-  }
+"collectCoverage": true
+        }
 }
