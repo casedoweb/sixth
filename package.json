@@ -5,5 +5,5 @@
             "coverageDirectory": "./coverage/",
             "collectCoverage": true
       },
-      "private": true
+      "private": false
 }
